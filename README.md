@@ -204,6 +204,7 @@ Alternatively, you can specify a single test file to run at a time:
 $ python3 unittest -m tests/test_console.py
 ```
 
-## Author :black_nib:
+## Authors :black_nib:
 * **YVONNE WERU** <[Yvnn16](https://github.com/Yvnn16)>
 
+* **EDDY-MARK NGALLE** <[Eddy-Mark](https://github.com/Eddy-Mark)>
